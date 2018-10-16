@@ -13,9 +13,6 @@ Maëlle Ngachili|@Maëlle
 
 <p><em>Travail réalisé en pair-programming</em></p>
 
-### RUBOCOP NE COMPREND RIEN A L'ART
-<p>22 offenses avec Rubocop à cause de notre display pimpé ! Malheureusement on ne peut pas faire autrement si on veut que ce soit aussi beau :stuck_out_tongue:</p>
-
 ### NOTES IMPORTANTES
 <ol>
     <li>Pensez à bien lancer un "<em>bundle install</em>" une fois positionné dans le dossier avant de lancer le programme</li>
