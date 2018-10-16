@@ -14,11 +14,11 @@ Maëlle Ngachili|@Maëlle
 <p><em>Travail réalisé en pair-programming<p>
 
 ### RUBOCOP NE COMPREND RIEN A L'ART
-<p>22 offenses avec Rubocop à cause de notre display pimpé ! Malheureusement on ne peut pas faire autrement si on veut que ce soit aussi beau :p<em><p>
+<p>22 offenses avec Rubocop à cause de notre display pimpé ! Malheureusement on ne peut pas faire autrement si on veut que ce soit aussi beau :stuck_out_tongue: <em><p>
 
 ### NOTES IMPORTANTES
 <ol>
-    <li>Pensez à bien lancer un "<em>bundle install</em>" une fois positionner dans le dossier avant de lancer le programme</li>
+    <li>Pensez à bien lancer un "<em>bundle install</em>" une fois positionné dans le dossier avant de lancer le programme</li>
     <li>
         <p>Il existe deux façon de lancer le morpion :<p>
         <ul>
